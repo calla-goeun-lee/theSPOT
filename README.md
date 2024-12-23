@@ -6,4 +6,4 @@ We are a website where we will recommend you the exact spot you've been looking 
 <br>
 Studying? Hanging out with friends? Coffee runs? We've got you.
 <br>
-The first edition is study edtion where we recommend the perfect study location you've been looking for.
+The first edition is <em>study edtion</em> where we recommend the perfect study location you've been looking for.
